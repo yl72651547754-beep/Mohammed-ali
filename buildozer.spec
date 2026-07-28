@@ -1,4 +1,3 @@
-# buildozer.spec
 [app]
 title = HelloWorld
 package.name = helloworld
